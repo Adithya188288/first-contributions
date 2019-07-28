@@ -102,6 +102,7 @@ _ Jay Kim
 - Mayra-io
 - [micollov](https://github.com/micollov)
 - Haran Lakha
+- [Matheus Gomes](https://github.com/mudouasenha)
 - [Jack Lovell](https://github.com/jack-rl-ovell)
 - [Rupayan Sarkar](https://github.com/QMrpy)
 - [Isha Terdal](https://github.com/ishaterdal)
@@ -185,6 +186,7 @@ _ Jay Kim
 Christian Reyes
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
+- [Adithya S](https://github.com/Adithya188288))
 - [Davy Chan](https://github.com/dcastellon0001)
 - [Prasanth Yadla](https://github.com/prashantyadla)
 - [Jordon Ulrich](https://github.com/jodgey)
